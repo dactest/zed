@@ -10,7 +10,6 @@ mod surface;
 mod svg;
 mod text;
 mod uniform_list;
-mod web_view;
 
 pub use anchored::*;
 pub use animation::*;
@@ -24,4 +23,3 @@ pub use surface::*;
 pub use svg::*;
 pub use text::*;
 pub use uniform_list::*;
-pub use web_view::*;
