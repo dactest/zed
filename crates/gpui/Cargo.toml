@@ -108,7 +108,7 @@ thiserror.workspace = true
 util.workspace = true
 uuid.workspace = true
 waker-fn = "1.2.0"
-wry = "0.47.2"
+wry = "0.17.0"
 
 [dev-dependencies]
 backtrace = "0.3"
